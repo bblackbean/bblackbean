@@ -1,7 +1,7 @@
 👋 Hi there! I'm junior developer using Java and Spring Framework.  
 I plan to study more about development in the future.  
 I think development is like forming a star in a vacuum.  
-So I hope to develop shiny and fun things.✨  
+So I hope to develop shiny and fun things like star.✨  
   
 
 
