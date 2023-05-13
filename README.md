@@ -14,4 +14,4 @@ So I hope to develop shiny and fun things like star.✨
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=flat-square) ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=flat-square) ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=flat-square)
   
 #### 💡 **Contact**
-<a href="https://bblackbean.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:alchemist5021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alchemist33@daum.net-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://bblackbean.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:alchemist5021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alchemist5021@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
