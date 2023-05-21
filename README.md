@@ -18,6 +18,7 @@ So I hope to develop shiny and fun things like star.✨
     
    #
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bblackbean&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bblackbean&layout=compact&theme=dracula)
+<a href="https://github.com/bblackbean"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=bblacbean&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="bblackbean's github stats" /></a>
+<a href="https://github.com/bblackbean"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bblackbean&layout=compact&theme=dracula&hide_border=true" /></a> 
+
 
