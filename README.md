@@ -16,6 +16,6 @@ So I hope to develop shiny and fun things like star.✨
 #### 💡 **Contact**
 <a href="https://bblackbean.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:alchemist5021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alchemist5021@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
-  
-  
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bblackbean&layout=compact)](https://github.com/bblackbean/github-readme-stats)
