@@ -1,3 +1,8 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/bblackbean" width="600" height="200"/>
+</a>
+
+<!--
 👋 Hi there! I'm junior back-end developer using Java and Spring Framework.  
 I plan to study more about development in the future.  
 I think development is like forming a star in a vacuum.  
@@ -17,7 +22,7 @@ So I hope to develop shiny and fun things like star.✨
 <a href="https://bblackbean.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:alchemist5021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alchemist5021@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>    <br>
     
 
-
+-->
 
 
 
