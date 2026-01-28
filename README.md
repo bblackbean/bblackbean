@@ -1,32 +1,35 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/bblackbean"
-  width="500"
-  height="250"
-/>
-</a>
-
-<!--
-👋 Hi there! I'm junior back-end developer using Java and Spring Framework.  
-I plan to study more about development in the future.  
-I think development is like forming a star in a vacuum.  
-So I hope to develop shiny and fun things like star.✨  
+### 👋 Hi, I’m Soojin — Backend Engineer
+I build and maintain backend services with Java and Spring.  
+I focus on reliability and maintainability—improving legacy codebases with solid validation and clear documentation. 
   
-
-
-
-#### ⚡️ **Skills**
-![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&logoColor=white&style=flat-square)   ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white&style=flat-square)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white&style=flat-square)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=Oracle&logoColor=white&style=flat-square)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white&style=flat-square) ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white&style=flat-square)  
+#### 🧰 Tech Stack
+- **Backend:** Java, Spring  
+- **DB:** Oracle, MySQL, MariaDB  
+- **Frontend:** JavaScript, jQuery, HTML/CSS  
+- **Collaboration:** Git, GitHub, Notion, Slack
   
-#### 📌 **Collaboration**
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white&style=flat-square) ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=flat-square) ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=flat-square)
+#### 🌱 I’m currently learning...
+- **Spring Boot** fundamentals (layered architecture, validation, exception handling)
+- **Testing** with JUnit (writing reliable integration tests)
+- **Docker** for containerized local/dev environments
+- **Observability** (Prometheus + Grafana, alerting)
   
-#### 💡 **Contact**
-<a href="https://bblackbean.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="mailto:alchemist5021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alchemist5021@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>    <br>
-    
-
--->
-
+#### 🎓 I've studied at...
+- Pusan National University (Busan, Republic of Korea)
+  
+#### 💡 How to reach me
+<a href="mailto:alchemist5021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alchemist5021@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/jin-76903a3a9" target="_blank"><img src="https://img.shields.io/badge/Linkedin-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/></a>
+  
+  
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/bblackbean"
+      width="40%"
+      alt="gitanimals"
+    />
+  </a>
+</p>
 
 
