@@ -3,7 +3,7 @@ I build and maintain backend services with Java and Spring.
 I focus on reliability and maintainability—improving legacy codebases with solid validation and clear documentation. 
   
 #### 🧰 Tech Stack
-- **Backend:** Java, Spring, Python 
+- **Backend:** Java, Spring, Python, FastAPI
 - **DB:** Oracle, MySQL, MariaDB  
 - **Frontend:** JavaScript, jQuery, HTML/CSS  
 - **Collaboration:** Git, GitHub, Notion, Slack
