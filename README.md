@@ -17,12 +17,13 @@ I focus on reliability and maintainability—improving legacy codebases with sol
   
 #### 🎓 I've studied at...
 - Pusan National University (Busan, Republic of Korea)
-  
+<br/>
+<!--  
 #### 💡 How to reach me
 <a href="mailto:alchemist5021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alchemist5021@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://bblackbean.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jin-76903a3a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/></a>
-  
+-->
   
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
@@ -34,4 +35,11 @@ I focus on reliability and maintainability—improving legacy codebases with sol
   </a>
 </p>
 
-
+<div align="center">
+	<p>
+		<a href="https://bblackbean.tistory.com/">DevBlog</a> ·
+		<a href="https://www.linkedin.com/in/jin-76903a3a9">LinkedIn</a> ·
+		<a href="https://bblackbean.com/">bblackbean.com</a> ·
+		<a href="mailto:alchemist5021@gmail.com">alchemist5021@gmail.com</a>
+	</p>
+</div>
